@@ -13,8 +13,7 @@
     <jstl.version>1.6</jstl.version>
 </properties>
 		
-	</properties>
-
+	
 	<dependencies>
 
 		<dependency>
