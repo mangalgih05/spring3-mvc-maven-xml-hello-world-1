@@ -8,7 +8,6 @@
 	<name>spring3 mvc maven</name>
 
 	<properties>
-		<properties>
     <jdk.version>1.8</jdk.version>
     <spring.version>3.2.13.RELEASE</spring.version>
     <jstl.version>1.6</jstl.version>
